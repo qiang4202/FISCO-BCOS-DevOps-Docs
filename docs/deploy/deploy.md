@@ -42,7 +42,7 @@ bash nodes/127.0.0.1/start_all.sh
 | ‌WeBASE-Docker | 单机构部署 |单机构部署所有节点|Docker |使用 Dokcer 启动，<br />同时包含一个 WeBASE-Front 应用|
 | ‌generator（推荐）| 单机构部署<br />**多机构对等部署**|多个独立机构联盟|‌脚本命令行 |**企业级部署**使用|
 
-根据当前部署的场景和环境，选择合适的部署方式已经部署工具。
+根据当前部署的场景和环境，选择合适的部署方式以及部署工具。
 
 ```eval_rst
 .. important:: 
